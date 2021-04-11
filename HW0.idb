@@ -1,0 +1,1 @@
+a_flies :- a_is_bird.
